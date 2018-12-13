@@ -70,9 +70,9 @@ void setup() {
 }
 
 void loop()
-{
-  read_bluetooth(); //Reads Bluetooth data sent by app
-}                   //read_bluetooth(); calls pin_chosen(int pin_num, int pin_value);
+{                    //Reads Bluetooth data sent by app constantly (in loop)
+  read_bluetooth();  //read_bluetooth(); calls void set_vacuum(int pin_value);
+}                    //As well as void pin_chosen(int pin_num, int pin_value);
 
 void pin_chosen(int pin_num, int pin_value){
   switch (pin_num){
