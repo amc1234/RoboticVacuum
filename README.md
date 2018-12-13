@@ -7,4 +7,5 @@ Vacuum on/off, and direction and speed of the motors can be controlled wirelessl
 Works with Android devices.
 
 Mechanical Systems and Chassis done by: Steven Pheng
+
 Electrical Systems and code done by: Andrea M
