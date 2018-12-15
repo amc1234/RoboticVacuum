@@ -1,6 +1,6 @@
 /****************************************************************************
    Project: Robotic Vacuum
-   By: Andrea M and Steven Phang
+   By: Andrea M, Steven Phang, and Susan Chen
    Date: December 12th, 2018
 
    Code by: Andrea M
